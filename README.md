@@ -21,7 +21,7 @@ I build ML systems and the software around them. Based in Bengaluru, India.
 
 ### Into
 Backend systems, GenAI, LLMs, NLP and representation learning.
-I’m especially interested in making retrieval actually return the *right* thing, and in understanding how ML systems work beyond just the model itself. I’m also getting more into the systems side - things like caching, rate limiting and infrastructure - through projects like [Find Your Route](https://github.com/AfreenInnovates/find-your-route).
+I’m especially interested in making retrieval actually return the *right* thing, and in understanding how ML systems work beyond just the model itself. I’m also getting more into the systems side - things like caching, rate limiting and infrastructure - through projects.
 
 I’m also spending more time going back to things I’ve already built and making them better instead of constantly starting something new.
 
