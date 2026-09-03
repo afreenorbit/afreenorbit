@@ -6,10 +6,18 @@ I build ML systems and the software around them. Based in Bengaluru, India.
 
 ### Building
 **`Halfspace`** - Trying to answer *"Who plays like this footballer, and why?"*
-I’m using three different learned representations across 397 Premier League players, ranking the results and letting an LLM explain why two players are similar.
+- **397 Premier League players** · **3 learned representations** · consensus-based ranking
+- An **LLM explains the match** 0 it never influences the ranking itself
+- Uses **one season of aggregate stats**, capturing what a player produced rather than where or how they produced it
+- **Next:** event-level + multi-season data, embeddings served through a real vector store, and retrieval caching to prevent redundant web scraping <br> -> [repo](https://github.com/AfreenInnovates/halfspace)
 
-**`PantograFE`** - A browser-based front end for a C++ finite-element railway solver.
--> [live](https://pantografe.onrender.com/) · [repo](https://github.com/AfreenInnovates/railway-gui)
+
+**`Find Your Route`** 0 A civic transit co-pilot that reads a physical ticket and works out what the trip actually costs you.
+
+- **OCR pipeline** extracts and normalizes station details from scanned tickets
+- **Gemma** generates route guidance, which is then compared against alternative transport options on **cost + carbon impact**
+- **FastAPI + Redis** for the backend and caching, with a **local Ollama fallback** when the hosted model isn't reachable
+- **Next:** rate limiting + per-user quotas, cache-focused load testing, and moving OCR/generation onto a queue so slow requests don't block fast ones <br> -> [repo](https://github.com/AfreenInnovates/find-your-route)
 
 ### Into
 Backend systems, GenAI, LLMs, NLP and representation learning.
