@@ -2,7 +2,7 @@
 
 I build ML systems and the software around them. Based in Bengaluru, India.
 
-<a href="https://www.linkedin.com/in/afreen007/"><img src="https://skillicons.dev/icons?i=linkedin" height="32" alt="LinkedIn"/></a> <a href="https://x.com/afreenorbit"><img src="https://skillicons.dev/icons?i=twitter" height="32" alt="X"/></a> <a href="https://github.com/afreenorbit"><img src="https://skillicons.dev/icons?i=github" height="32" alt="GitHub"/></a> <a href="mailto:afreenhossain0000@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="32" alt="Email"/></a> <a href="https://afreenhossain.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" height="32" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/afreenorbit/"><img src="https://skillicons.dev/icons?i=linkedin" height="32" alt="LinkedIn"/></a> <a href="https://x.com/afreenorbit"><img src="https://skillicons.dev/icons?i=twitter" height="32" alt="X"/></a> <a href="https://github.com/afreenorbit"><img src="https://skillicons.dev/icons?i=github" height="32" alt="GitHub"/></a> <a href="mailto:afreenhossain0000@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="32" alt="Email"/></a> <a href="https://afreenhossain.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" height="32" alt="Portfolio"/></a>
 
 ### Building
 **`Halfspace`** - Trying to answer *"Who plays like this footballer, and why?"*
